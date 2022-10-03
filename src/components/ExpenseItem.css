@@ -1,0 +1,24 @@
+.expense-item{
+    color: black;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    background-color: #d36363;
+    border-radius: 10px;
+    padding: 2.5rem 0.5rem 2.5rem 0.5rem;
+    margin: 1rem 0;
+}
+.expense-item_description{
+    display: flex;
+    justify-content:left;
+    column-gap: 20px;
+}
+
+.expense-item_where{
+    font-weight: 700;
+    color: white;
+}
+.expense-item_price{
+    
+}
